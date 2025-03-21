@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <div className='footer'>
-        <p>@copyright Garvit Jain</p>
+        <p>@copyright Ashwani Singh</p>
     </div>
   )
 }
